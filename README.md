@@ -70,7 +70,9 @@ cd yosys
 sudo apt-get install build-essential clang bison flex \libreadline-dev gawk tcl-dev libffi-dev git \ graphviz xdot pkg-config python3 libboost-system-dev\libboost-python-dev libboost-filesystem-dev zlib1g-dev
 make config-gcc
 make 
-sudo make install![IMG-20240220-WA0043](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/73d6ab40-7547-492b-a924-3e93af439c34)
+sudo make install
+'''
+![IMG-20240220-WA0043](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/73d6ab40-7547-492b-a924-3e93af439c34)
 ![IMG-20240220-WA0044](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/752df2f3-7853-4d1b-97da-9d0d1e2f85df)
 
-```
+
