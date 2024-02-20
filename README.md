@@ -78,4 +78,17 @@ sudo make install
 
 ![IMG-20240220-WA0043](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/facfe404-3fb1-4da7-a5f6-6a5fe6885328)
 
+### iVerilog
+
+```
+sudo apt-get install iverilog
+```
+![IMG-20240220-WA0046](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/ba879034-29f9-4a7d-ac9a-b7c4363e5dcd)
+
+### GTkWave
+``` sudo apt-get install gtkwave ```
+
+
+![IMG-20240220-WA0046](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/a4e0e52b-1f4a-40a4-b7a9-d637e70b29bf)
+
 
