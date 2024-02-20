@@ -46,4 +46,5 @@ This repo is intended to document the weekly progress.
 ### CLONING RISC-V GNU TOOLCHAIN
 ```sudo apt install git-all```   # To install git
 
-```sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev``` *make sure to install the dependencies*
+```sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev``` *![IMG-20240220-WA0042](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/bb38be13-ca5c-4292-891f-dac75f8a252b)
+make sure to install the dependencies*
