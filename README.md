@@ -63,7 +63,6 @@ In my case I created a driectory ```mkdir riscv``` and ``` chmod 777 home/nawras
 ### INSTALLING IVERILOG GTKWAVE & YOSYS
 
 ### YOSYS
-
 ```bash
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys 
@@ -71,8 +70,12 @@ sudo apt-get install build-essential clang bison flex \libreadline-dev gawk tcl-
 make config-gcc
 make 
 sudo make install
-'''
-![IMG-20240220-WA0043](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/73d6ab40-7547-492b-a924-3e93af439c34)
-![IMG-20240220-WA0044](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/752df2f3-7853-4d1b-97da-9d0d1e2f85df)
+```
+
+
+![IMG-20240220-WA0044](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/069c21af-a1bd-4e24-9ba7-1fcaa6aef32c)
+
+
+![IMG-20240220-WA0043](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/facfe404-3fb1-4da7-a5f6-6a5fe6885328)
 
 
