@@ -48,3 +48,29 @@ This repo is intended to document the weekly progress.
 
 ```sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev``` *![IMG-20240220-WA0042](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/bb38be13-ca5c-4292-891f-dac75f8a252b)
 make sure to install the dependencies*
+
+```git clone https://github.com/riscv/riscv-gnu-toolchain```
+
+## Create a opt dir
+```mkdir /opt/riscv```  *try sudo incase of permission denial*
+
+In my case I created a driectory ```mkdir riscv``` and ``` chmod 777 home/nawras/riscv ```
+
+## Config and make inside the risc-v gnu toolchain dir 
+
+```./configure --prefix=/opt/riscv``` 
+
+### INSTALLING IVERILOG GTKWAVE & YOSYS
+
+### YOSYS
+
+```bash
+git clone https://github.com/YosysHQ/yosys.git
+cd yosys 
+sudo apt-get install build-essential clang bison flex \libreadline-dev gawk tcl-dev libffi-dev git \ graphviz xdot pkg-config python3 libboost-system-dev\libboost-python-dev libboost-filesystem-dev zlib1g-dev
+make config-gcc
+make 
+sudo make install![IMG-20240220-WA0043](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/73d6ab40-7547-492b-a924-3e93af439c34)
+![IMG-20240220-WA0044](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/752df2f3-7853-4d1b-97da-9d0d1e2f85df)
+
+```
