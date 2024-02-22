@@ -26,7 +26,7 @@
         <li><strong>Q-Type Instructions (Quad-Precision Floating Point):</strong> Work with quad-precision floating-point numbers.</li>
         <li><strong>C-Type Instructions (Compressed Instructions):</strong> 16-bit instructions for code density (e.g., <code>c.addi4spn</code>, <code>c.lw</code>).</li>
 <h2><b>Instruction code format </b></h2>
-	<br><img width="772" alt="task2 inst image" src="https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/c9ba627e-3378-446d-a465-c1a93d4f000a">
+	<br> (src="https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/c9ba627e-3378-446d-a465-c1a93d4f000a")
 
 </body>
 </html>
