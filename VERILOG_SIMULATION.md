@@ -20,7 +20,9 @@ Let's delve into various operations to understand how gate-level simulation unfo
 
 1. **ADD Operation**
    ![ADD Operation])
-   ![WhatsApp Image 2024-04-22 at 13 03 25_3cdaa1d8](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/c49ca846-612b-479e-9c7c-4e52c3ae9e49)
+ ![WhatsApp Image 2024-04-22 at 12 22 59_fe497187](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/62f8e2e1-c6f2-44f1-aa0e-610fc95f1009)
+
+
 
 2. **SUB Operation**
    ![SUB Operation]![WhatsApp Image 2024-04-22 at 12 56 07_98182d8d](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/c8749286-d4e1-4667-b8ad-9ed682a83138)
