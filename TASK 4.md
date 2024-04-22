@@ -1,4 +1,4 @@
-*Task 4 Execution Overview**
+**Task 4 Execution Overview**
 
 **Follow these steps to view the gtkwave window:**
 
@@ -12,13 +12,19 @@
 Before proceeding with the execution instructions, let's review some sections of the Verilog code:
 
 1. **Instruction Fetch Stage:**
-   ![Instruction Fetch Stage](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/4207e62c-8e17-448e-83d1-f6610d4b81dc)
 
-2. **Instruction Decode Stage:**
-   ![Instruction Decode Stage](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/80f9a3b7-2e6b-46bb-a285-b0d779b30b19)
 
-3. **Hardcoded Instructions:**
-   ![Hardcoded Instructions](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/18c150f0-756a-4c30-b850-3fa5f9d101e4)
+
+
+   !![314470941-4207e62c-8e17-448e-83d1-f6610d4b81dc](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/f53a1a6f-8906-40bb-afde-4e4cae26ac86)
+
+3. **Instruction Decode Stage:**
+   ![Instruction Decode Stage]![314471177-80f9a3b7-2e6b-46bb-a285-b0d779b30b19](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/6f2db3a9-9357-4fa0-9413-908327149423)
+
+4. **Hardcoded Instructions:**
+   ![Hardcoded Instructions]
+   ![314471507-18c150f0-756a-4c30-b850-3fa5f9d101e4](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/f1cae355-e841-437c-8bdc-a376dfbe6748)
+
 
 **Execution Stage with Waveforms**
 
@@ -44,3 +50,4 @@ Before proceeding with the execution instructions, let's review some sections of
 
 - **XOR Operation:**
   ![XOR Operation Output](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/e21ef08f-453f-4b99-8895-3ebed15a3007)
+
