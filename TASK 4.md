@@ -23,6 +23,8 @@ Before proceeding with the execution instructions, let's review some sections of
 
 4. **Hardcoded Instructions:**
    ![Hardcoded Instructions]
+
+
    ![314471507-18c150f0-756a-4c30-b850-3fa5f9d101e4](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/f1cae355-e841-437c-8bdc-a376dfbe6748)
 
 
