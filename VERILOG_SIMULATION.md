@@ -1,49 +1,33 @@
-# FUNCTIONAL SIMULATION
-**For Ubuntu**
+# Task: Explore Gate-Level Simulation (GLS)
 
- Open your terminal and type the following to install iverilog and GTKWave
- ```
- $   sudo apt get update
- $   sudo apt get install iverilog gtkwave
- ```
+## Understanding Gate-Level Simulation (GLS)
 
-![neeraj2](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/f2ce1528-41c4-4639-9854-4aafba608d54)
+Gate-Level Simulation in VLSI is akin to dissecting a digital circuit under a microscope. It involves examining the behavior of individual logic gates, flip-flops, and other components. This meticulous analysis provides insights into circuit timing, power consumption, and functionality, ensuring the design operates as intended before fabrication.
 
+## Essential Checks: Synthesis Directory
 
+Before diving into GLS, it's imperative to verify the contents of the synthesis directory. Ensure it includes:
+- Gate-level netlist
+- Standard cell library
+- Yosys Synthesis Script
 
-- **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
+![Synthesis Directory](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/4bfa8b7a-300a-4275-a01a-417a46aaf403)
 
- ```
- $ git clone https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI
- $ cd Documents
- $ cd hello
-```
+## Exploring Operations
 
-![neeraj2](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/f2ce1528-41c4-4639-9854-4aafba608d54)
+Let's delve into various operations to understand how gate-level simulation unfolds:
 
-- **To simulate and run the Verilog code, enter the following commands in your terminal.**
-
-```
-$ iverilog -o hello hello.v hello_tb.v
-$ ./hello
-```
-
-
-
-
-
-- **To see the output waveform in gtkwave, enter the following commands in your terminal.**
-
-`$ gtkwave hello.vcd`
-
-
-
-  Full 5-stage instruction pipeline and pc-increment description Waveform
-
-![neeraj3](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/8829dc08-7144-4cc1-aa08-afc4ec3ae425)
-
-![neeraj4](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/1859608f-6301-429a-9095-b7d15b7501f6)
-
-
-
-
+1. **ADD Operation**
+   ![ADD Operation](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/0afee1bc-abe6-48a5-8063-872dcee39689)
+   
+2. **SUB Operation**
+   ![SUB Operation](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/4d4e18a1-6674-4048-a3bb-340c87054f7f)
+   
+3. **Logical AND Operation**
+   ![Logical AND Operation](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/a64b0e6c-df06-4f00-be02-8f3c36f95342)
+   
+4. **Logical OR Operation**
+   ![Logical OR Operation](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/cc500d11-3e0f-4079-97ab-ae505ad9aa11)
+   
+5. **Logical XOR Operation**
+   ![Logical XOR Operation](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/c10262db-b894-4933-b165-25ed6e541aca)
