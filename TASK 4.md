@@ -18,13 +18,13 @@ Before proceeding with the execution instructions, let's review some sections of
 
    !![314470941-4207e62c-8e17-448e-83d1-f6610d4b81dc](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/f53a1a6f-8906-40bb-afde-4e4cae26ac86)
 
-3. **Instruction Decode Stage:**
+2. **Instruction Decode Stage:**
    ![Instruction Decode Stage]
 
 
    ![314471177-80f9a3b7-2e6b-46bb-a285-b0d779b30b19](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/6f2db3a9-9357-4fa0-9413-908327149423)
 
-5. **Hardcoded Instructions:**
+3. **Hardcoded Instructions:**
    ![Hardcoded Instructions]
 
 
@@ -35,10 +35,6 @@ Before proceeding with the execution instructions, let's review some sections of
 
 1. Upon selecting the instantiated module, all registers and wires are displayed:
    ![Instantiated Module]![WhatsApp Image 2024-04-22 at 11 37 30_f3769490](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/a44436b5-e73f-4501-bbeb-25ac3914fc25)
-
-
-2. By adding signals, waveform representations can be observed:
-   ![Waveform Representation]![WhatsApp Image 2024-04-22 at 12 09 45_c0829e6e](https://github.com/Neeraj-p-purad/VSDSQUDRON-MINI/assets/160604281/1058ef59-c29f-4ae0-8167-00538217d900)
 
 
 **Output Demonstrating Various Operations**
